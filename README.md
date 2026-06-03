@@ -1,11 +1,13 @@
 # 👋 Hola, soy Juan Leiva
 
-Desarrollador Full Stack Junior | Backend Java
+Desarrollador Full Stack especializado en Java, Spring Boot y React, con experiencia desarrollando proyectos reales para negocios y clientes.
 
-Desarrollador con enfoque en backend, con experiencia en el desarrollo de aplicaciones web completas utilizando Java (Spring Boot) y React.
+Interesado en oportunidades como:
 
-Enfocado en APIs REST, arquitectura cliente-servidor y resolución de problemas en entornos reales, con aplicaciones desplegadas en producción.
-
+• Full Stack Developer
+• Backend Developer (Java / Spring Boot)
+• Desarrollo Web
+• Soporte Técnico IT
 ---
 
 ## 🚀 Stack principal
