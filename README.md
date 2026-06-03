@@ -3,7 +3,6 @@
 Desarrollador Full Stack especializado en Java, Spring Boot y React, con experiencia desarrollando proyectos reales para negocios y clientes.
 
 Interesado en oportunidades como:
-
 • Full Stack Developer
 • Backend Developer (Java / Spring Boot)
 • Desarrollo Web
