@@ -1,75 +1,49 @@
 # 👋 Hola, soy Juan Leiva
 
-Desarrollador Full Stack especializado en Java, Spring Boot y React, con experiencia desarrollando proyectos reales para negocios y clientes.
+## Full Stack Developer | Java • Spring Boot • React • TypeScript • Vite
 
-Interesado en oportunidades como:
-• Full Stack Developer
-• Backend Developer (Java / Spring Boot)
-• Desarrollo Web
-• Soporte Técnico IT
----
+Desarrollador Full Stack enfocado en la creación de aplicaciones web, APIs REST y soluciones digitales para negocios reales.
 
-## 🚀 Stack principal
+### 🚀 Stack principal
 
-**Backend**
-- Java (Spring Boot)
-- PHP (Laravel)
-- APIs REST
-- Arquitectura MVC
+- Java
+- Spring Boot
+- React
+- TypeScript
+- Vite
+- PostgreSQL
+- MySQL
+- Git & GitHub
 
-**Frontend**
-- React + TypeScript
+### 💼 Proyecto destacado
 
-**Bases de datos**
-- MySQL, PostgreSQL
+#### Carlos Scalera Sax
 
-**Herramientas**
-- Git, GitHub, Postman, Linux
+Página web profesional desarrollada para un saxofonista especializado en bodas, eventos, hoteles y espectáculos.
 
-**Automatización**
-- Siemens S7-200 (PLC), KNX
+Tecnologías utilizadas:
 
----
+- React
+- TypeScript
+- Vite
+- Vercel
 
-## 💼 Proyecto destacado
+### 🎓 Formación
 
-### 🌐 LevelUp Interiores (Full Stack - Spring Boot + React)
+- Desarrollo de Aplicaciones Multiplataforma
+- Transformación Digital - Agentes del Cambio (EOI)
+- Desarrollo Web Full Stack
+- SEO y Marketing Digital
 
-Aplicación web desarrollada para la gestión de servicios y captación de clientes en una empresa de reformas.
+### 🎯 Actualmente
 
-🔗 **Demo:** https://levelup-interiores-fullstack.vercel.app  
-🔗 **Código:** https://github.com/juanillo-stack/levelup-interiores-fullstack  
+Buscando oportunidades como:
 
-**Backend**
-- API REST con Spring Boot  
-- Implementación de lógica de negocio  
-- Arquitectura por capas (controladores, servicios, repositorios)  
+- Full Stack Developer
+- Backend Developer (Java / Spring Boot)
+- Desarrollador Web
 
-**Frontend**
-- React + TypeScript  
-- Formularios conectados al backend  
-- Interfaz orientada a captación de clientes  
+### 📫 Contacto
 
----
-
-## 📄 CV
-
-👉 Ver CV:  
-https://github.com/juanillo-stack/juanillo-stack/raw/main/CV-JuanLeiva-Dev.pdf
-
----
-
-## 🎯 Objetivo actual
-
-Buscando mi primera oportunidad en el sector IT en roles como:
-
-- Desarrollo Backend (Java / Spring Boot)  
-- Soporte técnico / sistemas  
-- Entornos backend y APIs  
-
----
-
-## 📫 Contacto
-
-- LinkedIn: https://linkedin.com/in/juanillo-stack  
-- GitHub: https://github.com/juanillo-stack
+- LinkedIn: linkedin.com/in/juanleivadev
+- Web: levelupsolutions.es
